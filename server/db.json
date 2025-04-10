@@ -1,0 +1,449 @@
+{
+  "users": [
+    {
+      "id": 1744026184707,
+      "name": "Test User",
+      "email": "test@gmail.com",
+      "bio": "",
+      "password": "$2b$10$26kYZbcjIsZgj5DyzRtM2O.6A/BNe9/yOhnqS/qYPe6W1aMsiwA8i",
+      "socialLinks": []
+    },
+    {
+      "id": 1744038418025,
+      "name": "Yashil Lal Singh",
+      "email": "yashil@gmail.com",
+      "bio": "Full Stack Developer",
+      "password": "$2b$10$.fUW5adytrIiujRJLKBgo.AC6Xc4dlWKvsgCAfmQfeOKP8RFcwyZ2",
+      "socialLinks": [
+        {
+          "label": "website",
+          "link": "https://yashil-singh.vercel.app/"
+        },
+        {
+          "label": "github",
+          "link": "https://github.com/yashil-singh"
+        },
+        {
+          "label": "linkedin",
+          "link": "https://www.linkedin.com/in/yashil-singh/"
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "description": "We are looking for a skilled frontend developer proficient in React and Tailwind CSS.",
+      "tags": [
+        "React",
+        "Tailwind CSS",
+        "JavaScript"
+      ],
+      "company": "EB Pearls",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "50,000 - 80,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-15T00:00:00Z",
+      "createdAt": "2025-04-01T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "description": "Seeking an experienced backend developer with expertise in Node.js and PostgreSQL.",
+      "tags": [
+        "Node.js",
+        "PostgreSQL",
+        "Express"
+      ],
+      "company": "CloudFactory",
+      "location": "Lalitpur, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "60,000 - 90,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-20T00:00:00Z",
+      "createdAt": "2025-04-02T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "description": "Looking for a UI/UX designer with experience in Figma and user research.",
+      "tags": [
+        "Figma",
+        "UX Research",
+        "Prototyping"
+      ],
+      "company": "LogPoint",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "45,000 - 75,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-25T00:00:00Z",
+      "createdAt": "2025-04-03T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Software Engineer",
+      "description": "Hiring a software engineer with full-stack development experience in MERN stack.",
+      "tags": [
+        "MERN",
+        "JavaScript",
+        "MongoDB"
+      ],
+      "company": "Fusemachines",
+      "location": "Remote, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Remote",
+      "salary": "70,000 - 1,00,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-18T00:00:00Z",
+      "createdAt": "2025-04-04T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "DevOps Engineer",
+      "description": "Seeking a DevOps engineer experienced with AWS, Docker, and CI/CD pipelines.",
+      "tags": [
+        "AWS",
+        "Docker",
+        "CI/CD"
+      ],
+      "company": "Leapfrog Technology",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "80,000 - 1,20,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-30T00:00:00Z",
+      "createdAt": "2025-04-05T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "QA Engineer",
+      "description": "Looking for a QA engineer experienced in automated and manual testing.",
+      "tags": [
+        "Selenium",
+        "Jest",
+        "Manual Testing"
+      ],
+      "company": "Deerwalk",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "50,000 - 80,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-20T00:00:00Z",
+      "createdAt": "2025-04-06T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "WordPress Developer",
+      "description": "Hiring a WordPress developer with experience in custom theme development.",
+      "tags": [
+        "WordPress",
+        "PHP",
+        "WooCommerce"
+      ],
+      "company": "Hansikar Technologies",
+      "location": "Lalitpur, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "40,000 - 70,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-22T00:00:00Z",
+      "createdAt": "2025-04-07T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Android Developer",
+      "description": "Seeking an Android developer with expertise in Kotlin and Jetpack Compose.",
+      "tags": [
+        "Android",
+        "Kotlin",
+        "Jetpack Compose"
+      ],
+      "company": "Cotiviti Nepal",
+      "location": "Bhaktapur, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "60,000 - 90,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-25T00:00:00Z",
+      "createdAt": "2025-04-08T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "iOS Developer",
+      "description": "Looking for an iOS developer with experience in Swift and SwiftUI.",
+      "tags": [
+        "iOS",
+        "Swift",
+        "SwiftUI"
+      ],
+      "company": "EB Pearls",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "70,000 - 1,00,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-28T00:00:00Z",
+      "createdAt": "2025-04-09T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Project Manager",
+      "description": "Hiring a project manager with experience in Agile methodologies.",
+      "tags": [
+        "Agile",
+        "Scrum",
+        "Project Management"
+      ],
+      "company": "LogPoint",
+      "location": "Lalitpur, Nepal",
+      "experienceRequired": "4+ years",
+      "jobType": "Full-time",
+      "salary": "90,000 - 1,50,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-30T00:00:00Z",
+      "createdAt": "2025-04-10T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "Cyber Security Analyst",
+      "description": "Hiring a cybersecurity analyst with experience in penetration testing.",
+      "tags": [
+        "Cybersecurity",
+        "Penetration Testing",
+        "Ethical Hacking"
+      ],
+      "company": "Vianet Communications",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "70,000 - 1,20,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-26T00:00:00Z",
+      "createdAt": "2025-04-11T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Data Scientist",
+      "description": "Seeking a data scientist proficient in Python and machine learning.",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "company": "Fusemachines",
+      "location": "Remote, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Remote",
+      "salary": "90,000 - 1,50,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-29T00:00:00Z",
+      "createdAt": "2025-04-12T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "Network Engineer",
+      "description": "Hiring a network engineer with experience in Cisco and firewall security.",
+      "tags": [
+        "Networking",
+        "Cisco",
+        "Firewall"
+      ],
+      "company": "WorldLink Communications",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "50,000 - 80,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-23T00:00:00Z",
+      "createdAt": "2025-04-13T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "AI Engineer",
+      "description": "Looking for an AI engineer with expertise in NLP and deep learning.",
+      "tags": [
+        "AI",
+        "Deep Learning",
+        "NLP"
+      ],
+      "company": "Deerwalk",
+      "location": "Lalitpur, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "80,000 - 1,30,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-21T00:00:00Z",
+      "createdAt": "2025-04-14T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Graphic Designer",
+      "description": "Seeking a graphic designer proficient in Adobe Illustrator and Photoshop.",
+      "tags": [
+        "Graphic Design",
+        "Illustrator",
+        "Photoshop"
+      ],
+      "company": "Yarsa Labs",
+      "location": "Pokhara, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "40,000 - 65,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-24T00:00:00Z",
+      "createdAt": "2025-04-15T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "Social Media Manager",
+      "description": "Hiring a social media manager with experience in digital marketing.",
+      "tags": [
+        "Social Media",
+        "Marketing",
+        "SEO"
+      ],
+      "company": "MeroJob",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "2+ years",
+      "jobType": "Full-time",
+      "salary": "45,000 - 70,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-27T00:00:00Z",
+      "createdAt": "2025-04-16T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Tech Support Engineer",
+      "description": "Looking for a tech support engineer with experience in troubleshooting software issues.",
+      "tags": [
+        "Tech Support",
+        "Customer Service",
+        "Troubleshooting"
+      ],
+      "company": "eSewa",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "1+ years",
+      "jobType": "Full-time",
+      "salary": "35,000 - 60,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-19T00:00:00Z",
+      "createdAt": "2025-04-17T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Blockchain Developer",
+      "description": "Hiring a blockchain developer with experience in Solidity and smart contracts.",
+      "tags": [
+        "Blockchain",
+        "Solidity",
+        "Smart Contracts"
+      ],
+      "company": "GrowByData",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "90,000 - 1,40,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-22T00:00:00Z",
+      "createdAt": "2025-04-18T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "System Administrator",
+      "description": "Seeking a system administrator with experience in Linux and cloud services.",
+      "tags": [
+        "System Administration",
+        "Linux",
+        "Cloud"
+      ],
+      "company": "Leapfrog Technology",
+      "location": "Lalitpur, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "70,000 - 1,10,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-04-30T00:00:00Z",
+      "createdAt": "2025-04-19T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "Machine Learning Engineer",
+      "description": "Looking for a Machine Learning Engineer with experience in Python, TensorFlow, and NLP.",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "TensorFlow",
+        "NLP"
+      ],
+      "company": "Nepal AI Labs",
+      "location": "Kathmandu, Nepal",
+      "experienceRequired": "3+ years",
+      "jobType": "Full-time",
+      "salary": "90,000 - 1,50,000",
+      "salaryBasis": "Monthly",
+      "deadlineDate": "2025-05-10T00:00:00Z",
+      "createdAt": "2025-04-06T00:00:00Z"
+    }
+  ],
+  "saves": [
+    {
+      "jobId": "1",
+      "userId": 1744026184707
+    },
+    {
+      "jobId": "4",
+      "userId": 1744038418025
+    },
+    {
+      "jobId": "2",
+      "userId": 1744038418025
+    },
+    {
+      "jobId": "3",
+      "userId": 1744038418025
+    },
+    {
+      "jobId": "1",
+      "userId": 1744038418025
+    },
+    {
+      "jobId": "7",
+      "userId": 1744038418025
+    }
+  ],
+  "applications": [
+    {
+      "id": "1744208916910",
+      "jobId": "1",
+      "userId": 1744038418025
+    },
+    {
+      "id": "1744209604828",
+      "jobId": "2",
+      "userId": 1744038418025
+    },
+    {
+      "id": "1744209685340",
+      "jobId": "3",
+      "userId": 1744038418025
+    },
+    {
+      "id": "1744262769689",
+      "jobId": "7",
+      "userId": 1744038418025
+    },
+    {
+      "id": "1744262924769",
+      "jobId": "1",
+      "userId": 1744026184707
+    }
+  ]
+}
