@@ -14,7 +14,7 @@ export const db = router.db;
 
 server.use(
   cors({
-    origin: "https://jobly-flame.vercel.app/",
+    origin: "https://jobly-flame.vercel.app",
     credentials: true,
   })
 );
