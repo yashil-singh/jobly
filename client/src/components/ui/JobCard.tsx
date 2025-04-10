@@ -1,6 +1,5 @@
 import { Bookmark } from "lucide-react";
 import { Link } from "react-router-dom";
-import { Job } from "../../lib/types";
 import { format } from "date-fns";
 import { Button } from "./Button";
 import { Badge } from "./badge";
@@ -11,6 +10,7 @@ import { toast } from "sonner";
 import { AxiosError } from "axios";
 import { cn } from "@/lib/utils";
 import { removeSavedJob, saveJob } from "@/lib/slices/job/jobSlice";
+import { Job } from "@/lib/slices/job/types";
 
 const JobCard = ({ job }: { job: Job }) => {
   const dispatch = useDispatch<AppDispatch>();

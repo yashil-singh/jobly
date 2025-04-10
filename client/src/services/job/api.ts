@@ -1,4 +1,4 @@
-import { Job } from "../../lib/types";
+import { Job } from "@/lib/slices/job/types";
 import { GET, POST } from "../api";
 
 export const fetchJobs = async (): Promise<Job[]> => {
